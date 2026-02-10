@@ -77,5 +77,6 @@ Experiment with deep learning models (e.g., LSTM, CNN) for time-series yield pre
 
 Integrate with GIS platforms for spatial yield mapping.
 
-Author Name: Agbozu Ebingiye Nelvin
+Author Name: AGBOZU EBINGIYE NELVIN
 Github: https://github.com/Nelvinebi
+LinkedIn: https://www.linkedin.com/in/agbozu-ebi/
