@@ -10,7 +10,7 @@
 
 **An end-to-end ML pipeline fusing satellite-derived vegetation indices with climate variables to forecast crop productivity — scalable to real-world Sentinel-2 & Landsat datasets.**
 
-[🚀 Run Dashboard](#-how-to-run) · [📊 View Results](#-model-results--visualizations) · [📐 Methodology](#-methodology) · [👤 Author](#-author)
+[🚀 Run Dashboard](https://crop-yield-prediction-using-remote-sensing-weather-data-jcs2k6.streamlit.app/) · [📊 View Results](#-model-results--visualizations) · [📐 Methodology](#-methodology) · [👤 Author](#-author)
 
 </div>
 
