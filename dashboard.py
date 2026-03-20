@@ -216,7 +216,7 @@ section[data-testid="stSidebar"] hr {
 # ─── LOAD & CACHE DATA ──────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    df = pd.read_excel("crop_yield_data.xlsx")
+    df = pd.read_excel("data/data.xlsx")
     return df
 
 @st.cache_resource
