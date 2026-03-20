@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 # Step 1: Load Dataset
 # -----------------------------
 
-data = pd.read_excel('crop_yield_data.xlsx')
+data = pd.read_excel('data/data.xlsx')
 print(data.head())
 
 # -----------------------------
