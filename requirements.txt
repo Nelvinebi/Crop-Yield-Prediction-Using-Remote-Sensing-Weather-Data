@@ -5,3 +5,4 @@ plotly
 scikit-learn
 openpyxl
 statsmodels
+matplotlib
